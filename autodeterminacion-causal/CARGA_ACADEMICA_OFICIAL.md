@@ -4,11 +4,19 @@ El **Diplomado en Autodeterminación Causal** tiene una **carga académica nomin
 
 ## Criterio de cómputo
 
-El programa es asincrónico, autogestivo y secuencial; por ello, la carga académica no equivale al tiempo cronológico que cada participante tarda en concluirlo. Para efectos de certificación se adopta una carga nominal estable de **7.5 horas por sesión**, aplicada a las **16 sesiones** del recorrido académico:
+El programa es asincrónico, autogestivo y secuencial; por ello, la carga académica no equivale al tiempo cronológico que cada participante tarda en concluirlo. Para efectos de certificación se adopta una carga nominal estable de **7.5 horas promedio por sesión**, aplicada a las **16 sesiones** del recorrido académico:
 
 `16 sesiones × 7.5 horas = 120 horas`
 
-La carga nominal de cada sesión comprende, según su anatomía concreta: apertura expositiva, contenido escrito, conceptos clave, lecturas, actividades de análisis, comprobación de comprensión y tiempo de integración del material.
+La carga nominal promedio por sesión se distribuye metodológicamente así:
+
+- **2.25 horas** para apertura expositiva, contenido escrito y conceptos clave.
+- **3 horas** para lecturas obligatorias o lecturas de trabajo.
+- **1.25 horas** para actividades de análisis y aplicación académica.
+- **0.5 horas** para comprobación de comprensión.
+- **0.5 horas** para revisión, integración y cierre del material de la sesión.
+
+Esta distribución es un criterio institucional de carga académica, no una medición individual del tiempo real de estudio. La anatomía concreta de las sesiones puede variar y desplazar tiempo entre componentes sin alterar la carga total del programa.
 
 Las herramientas privadas de aplicación no se contabilizan como requisito adicional de acreditación. Tampoco se contabilizan actividades de evidencia abierta retiradas de la publicación v1.
 
