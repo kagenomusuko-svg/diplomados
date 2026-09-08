@@ -68,5 +68,5 @@ d) Exige reconstruir psicológicamente los motivos ocultos de los demás.
 
 **Explicación:** La mentalidad ampliada disciplina el juicio al introducir otras posiciones posibles. No equivale a lectura de mente, empatía psicológica obligatoria ni aceptación de la interpretación ajena como verdadera.
 
-> **Condición de avance académico:** mínimo 3 de 5 respuestas correctas y escrito de posición registrado como evidencia.  
+> **Condición de avance académico:** mínimo 3 de 5 respuestas correctas.  
 > La Herramienta de aplicación 3 permanece privada: puede marcarse como completada por el propio participante, pero no se entrega ni se califica.
