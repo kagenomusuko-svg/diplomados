@@ -13,6 +13,10 @@ Esta carpeta contiene la versión estructurada aprobada para publicación e impl
 
 Cada módulo de una sesión se identifica con el formato visible `Sesión N · Nombre de la sesión`.
 
+## Carga académica oficial
+
+La carga académica oficial de esta edición es de **40 horas de 60 minutos**. El criterio de cálculo y la regla de congelamiento histórico se documentan en `CARGA_ACADEMICA.md`.
+
 ## Alcance de la primera publicación
 
 En esta etapa no se incluyen escritos de posición ni un circuito de entrega de evidencias abiertas. La acreditación automática se apoya en el recorrido de las 16 sesiones y la aprobación de sus 16 evaluaciones. Las herramientas de aplicación privadas permanecen fuera de la calificación.
