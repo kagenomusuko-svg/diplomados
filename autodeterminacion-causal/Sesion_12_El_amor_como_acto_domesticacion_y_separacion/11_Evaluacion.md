@@ -68,5 +68,5 @@ d) Que una vez elegido un vínculo debe renovarse para siempre.
 
 **Explicación:** El amor como acto desplaza la atención desde la sola intensidad afectiva hacia las prácticas y decisiones atribuibles al sujeto, sin suponer control total de los estados emocionales ni obligación de permanencia.
 
-> **Condición de avance:** 3 de 5 respuestas correctas, Herramienta de aplicación 6 completada y escrito de posición subido al repositorio.  
+> **Condición de avance:** 3 de 5 respuestas correctas y Herramienta de aplicación 6 completada.  
 > Si no alcanzaste el mínimo: relee ambos bloques y distingue **modificación / responsabilidad / atribución / separación / reconfiguración / dolor / amor como acto** antes de volver a intentar.
