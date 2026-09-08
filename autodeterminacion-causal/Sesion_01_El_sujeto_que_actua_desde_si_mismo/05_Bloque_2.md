@@ -1,0 +1,20 @@
+# Sesión 1 · El sujeto que actúa desde sí mismo
+## Bloque 2 · El ego: eje de referencia, no vicio
+
+Pocas palabras han sido tan mal apropiadas por el lenguaje cotidiano como «ego». Tener ego significa, en el uso habitual, ser arrogante, creerse más que los demás, no poder reconocer los propios errores. «Le ganó el ego.» «Tiene mucho ego.» En ese uso, el ego es el problema: algo de lo que habría que deshacerse para ser una mejor persona, más humilde, más receptiva.
+
+La autodeterminación causal propone una rehabilitación filosófica del término que no es caprichosa sino necesaria. Si vas a pensar en serio sobre la responsabilidad del sujeto en sus propios actos, necesitas explicar cómo ese sujeto puede localizarse, reconocerse a través del cambio y apropiarse de sus actos como propios. El ego responde a ese problema específico.
+
+El ego, aquí, no es contenido. No es la suma de tus características, tus opiniones o tus logros. Es función: el eje de referencia desde el cual el sujeto se localiza, actúa y se reconoce a través del tiempo. Sin esa función, no hay un polo subjetivo capaz de decir «este acto fue mío». No hay una posición desde donde apropiarse del cambio. No hay origen subjetivo localizable dentro de la autodeterminación causal.
+
+Dicho de otra forma: el ego es lo que hace que el cambio te pertenezca. Eres una persona diferente de la que eras hace diez años. Tu cuerpo ha cambiado, tus ideas han cambiado, tus vínculos han cambiado. Y, sin embargo, hay algo que hace que todos esos cambios sean tuyos: que sea tu historia, no la de otro. Ese algo es el ego como función de localización. No como contenido que permanece idéntico, sino como estructura que hace posible que la transformación tenga un sujeto.
+
+La autodeterminación causal distingue entre ego y egolatría. El ego es el eje: necesario, funcional, condición de la responsabilidad dentro de esta arquitectura. La egolatría es la absolutización de la imagen de ese eje: cuando el sujeto deja de usar el ego como punto de referencia y empieza a defender una imagen de sí como si no pudiera ser cuestionada. El error puede entonces vivirse como amenaza a la imagen. El otro puede ser escuchado sólo en función de si confirma o contradice esa imagen. El acto puede quedar subordinado a su defensa.
+
+La paradoja es esta: la egolatría puede producir exactamente lo que pretende evitar. El sujeto que defiende su imagen a cualquier costo reduce su capacidad de revisar desde dónde actúa. Actúa cada vez más desde la imagen que necesita conservar. Y la imagen no es el ego: es una representación del ego convertida en objeto de defensa.
+
+Sartre, en *El existencialismo es un humanismo*, radicaliza la responsabilidad del sujeto hasta un punto que produce incomodidad: «El hombre no es otra cosa que lo que se hace». No hay una esencia humana fija que determine de antemano lo que cada uno debe ser y el sujeto no puede convertir sus condiciones en una explicación exhaustiva que lo borre de sus elecciones. Esta posición tiene una exigencia que la autodeterminación causal toma en serio, aunque no la adopta en los mismos términos.
+
+La diferencia no consiste en que Sartre ignore simplemente las condiciones. Su filosofía también parte de una existencia situada. El contraste que interesa aquí está en el modo de organizar el problema: Sartre pone el énfasis en el proyecto, la elección y la responsabilidad de una existencia que no posee esencia previa; la autodeterminación causal construye el acto a partir de la colisión entre una configuración efectiva del sujeto (historia, cuerpo, emociones, proyectos y posibilidades clausuradas) y las condiciones del mundo. En *El telar de las Moiras* esta arquitectura se formula y desarrolla de manera explícita. El interlocutor sartreano sirve para tensar el problema; no es una versión incompleta de la autodeterminación causal.
+
+En esta sesión, la tarea es empezar a localizar esa participación del sujeto en la experiencia concreta. ¿Desde qué configuración actúas? ¿Hay momentos en que reconoces algo tuyo en lo que produces? ¿Hay momentos en que prefieres no reconocerlo?

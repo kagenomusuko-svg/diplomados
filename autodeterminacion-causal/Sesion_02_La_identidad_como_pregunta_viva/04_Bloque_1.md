@@ -1,0 +1,14 @@
+# Sesión 2 · La identidad como pregunta viva
+## Bloque 1 · La pregunta que no sabemos habitar
+
+La tradición filosófica ha convertido el «conócete a ti mismo» asociado al templo de Apolo en Delfos en una de sus fórmulas más persistentes. Sócrates hizo del examen de sí una pieza central de su práctica filosófica. Antes de pretender conocer el mundo, la justicia o la virtud, aparece una pregunta por el sujeto que conoce y actúa. En el Capítulo I de *El telar de las Moiras*, esa pregunta no funciona como lujo filosófico sino como condición para poder localizar desde dónde se actúa.
+
+Y, sin embargo, la mayoría de nosotros vivimos con la pregunta respondida de antemano. Tenemos nombre, tenemos historia, tenemos un conjunto relativamente estable de roles y preferencias. Cuando alguien nos pregunta quién somos, tenemos respuesta. El problema no es que la respuesta sea falsa. El problema es que puede estar tan disponible que nunca nos obligue a pensar.
+
+La autodeterminación causal propone aquí una distinción pedagógica entre identidad como etiqueta e identidad como localización. La identidad como etiqueta es la colección de atributos que podemos enumerar: nombre, origen, profesión, vínculos, historia, gustos. Es lo que aparece en un currículum o en una presentación. Es real. Pero no agota la identidad.
+
+La identidad como localización es otra cosa. No pretende nombrar aquello que permanece idéntico mientras todo cambia; ese problema corresponderá al ego y lo trabajaremos en la siguiente sesión. Aquí nombra las coordenadas revisables desde las que el sujeto puede preguntarse dónde está, qué vive, qué desea modificar y hacia dónde se orienta. No se deduce mecánicamente de las etiquetas: requiere examen.
+
+¿Por qué importa esta distinción? Porque la identidad como etiqueta puede coexistir perfectamente con la anestesia existencial. Puedes tener todas las etiquetas en orden y, aun así, no haber examinado la orientación que organiza buena parte de tus actos. Puedes funcionar, producir, relacionarte y cumplir roles asignados mientras reproduces expectativas que nunca has distinguido de aquello que reconoces como propio.
+
+La identidad como pregunta, y no como respuesta cerrada, es la alternativa que trabaja la autodeterminación causal. No significa no tener respuestas. Significa que las respuestas son provisionales, revisables y capaces de entrar de nuevo en examen. En el Capítulo I de *El telar de las Moiras* esta formulación aparece vinculada con el problema de la localización del sujeto. Isaiah Berlin, al distinguir entre libertad negativa y libertad positiva, ofrece aquí un interlocutor útil: una de las preguntas que abre la libertad positiva es quién es el «sí mismo» que pretende gobernarse. La autodeterminación causal no deriva su concepto de identidad de Berlin ni se identifica con la libertad positiva; utiliza esa tensión para volver más visible el problema de la autolocalización.

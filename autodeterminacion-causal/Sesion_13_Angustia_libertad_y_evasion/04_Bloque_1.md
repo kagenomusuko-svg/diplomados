@@ -1,0 +1,20 @@
+# Sesión 13 · Angustia, libertad y evasión
+## Bloque 1 · Angustia, posibilidad y apertura
+
+La distinción entre miedo y angustia en Kierkegaard no es una diferencia de intensidad. El miedo se orienta hacia algo relativamente determinado: una pérdida, una amenaza, una consecuencia identificable. La angustia se vincula con la posibilidad y con la libertad todavía no concretada en una elección.
+
+Por eso la imagen del vértigo resulta útil. No basta decir que el sujeto teme caer. Kierkegaard quiere mostrar una relación ambivalente con la posibilidad misma: aquello que podría ocurrir no está simplemente impuesto por una fuerza exterior. La libertad aparece como algo que atrae y repele, precisamente porque abre posibilidades que todavía no han sido cerradas por el acto.
+
+En términos de autodeterminación causal, esta estructura puede formularse sin convertir la libertad en independencia de las causas. El sujeto llega a una decisión ya configurado por historia, cuerpo, vínculos, información, recursos, límites materiales y disposiciones que no eligió. La cuestión no es si esas condiciones desaparecen cuando decide. La cuestión es **si dentro de ellas existe una intervención que puede atribuirse razonablemente al sujeto y con qué margen**.
+
+La angustia puede acompañar ese reconocimiento, pero no sirve como instrumento de medición. Un sujeto puede tener un margen amplio y no experimentar angustia; puede experimentar una angustia intensa ante un margen muy estrecho; puede también sentir ansiedad por razones que no pertenecen al problema filosófico aquí estudiado. La sesión utiliza la angustia como categoría conceptual, no como prueba diagnóstica de agencia.
+
+Heidegger amplía el análisis al mostrar que la angustia altera la manera cotidiana en que el mundo resulta familiar. Buena parte de la vida práctica transcurre dentro de respuestas socialmente disponibles: «se hace», «se piensa», «se espera». El *das Man* no es simplemente una masa maligna que haya que eliminar; forma parte de la estructura cotidiana de estar con otros y hace posible gran parte de la coordinación ordinaria.
+
+La angustia puede suspender momentáneamente esa familiaridad. Lo que antes parecía obvio deja de resolver la situación. El sujeto no descubre entonces una esencia secreta situada «detrás» de todos sus roles. Heidegger permite decir algo más preciso: el *Dasein* queda individualizado frente a posibilidades que no pueden agotarse en lo que cualquiera haría.
+
+La conexión con la autodeterminación causal aparece aquí. Una norma, un rol o una expectativa pueden ser condiciones reales de la acción. Seguirlos no implica automáticamente pérdida de autodeterminación. La pregunta es **cómo entran en la decisión**. Una persona puede adoptar una norma después de evaluarla, puede seguirla porque no tiene un margen razonable para apartarse de ella, o puede utilizarla como forma de no reconocer una decisión que sí le corresponde. La conducta externa puede parecer idéntica; la reconstrucción causal no lo es.
+
+Por eso tampoco debe afirmarse que quien nunca experimenta angustia existencial «probablemente no elige». La ausencia de angustia no prueba conformidad y su presencia no prueba autenticidad. El valor de la categoría consiste en hacer visible una posibilidad: algunas decisiones se vuelven difíciles precisamente porque ya no pueden presentarse honestamente como decisiones de otro.
+
+El capítulo formula con fuerza la idea de que la angustia es «el precio de no ser cosa». La sesión conserva esa intuición en un sentido filosófico limitado: un objeto no se relaciona reflexivamente con alternativas ni responde por sus actos. Pero no necesitamos convertir la angustia en demostración metafísica de la libertad. Basta con sostener que Kierkegaard la utiliza para describir cómo puede experimentarse la apertura de posibilidades en un ser que se comprende a sí mismo como agente.

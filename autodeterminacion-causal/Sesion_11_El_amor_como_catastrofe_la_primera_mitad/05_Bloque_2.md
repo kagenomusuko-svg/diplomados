@@ -1,0 +1,36 @@
+# Sesión 11 · El amor como catástrofe: la primera mitad
+## Bloque 2 · Amor propio, capacidad afectiva y disposiciones relacionales
+
+La relación con el otro real introduce un problema que la idealización podía ocultar: amar a alguien no le concede a ese alguien una capacidad afectiva distinta de la que efectivamente tiene. El vínculo puede modificar a las personas y sus capacidades pueden cambiar a lo largo de una trayectoria, pero el amor no convierte por sí mismo el deseo de recibir algo en capacidad del otro para darlo.
+
+De ahí parte una de las distinciones centrales de *El telar de las Moiras*:
+
+**No recibimos el amor que merecemos. Recibimos el amor que el otro puede dar.**
+
+La tesis separa dos preguntas que con frecuencia se confunden. Una pregunta es por el valor del sujeto: si merece respeto, reconocimiento o un trato compatible con su dignidad. Otra pregunta es por la capacidad afectiva de la persona con la que se vincula: qué puede sostener, expresar, recibir y construir dentro de ese vínculo. La primera no determina automáticamente la segunda. Ser digno de respeto no produce en el otro, por correspondencia moral, la capacidad de amar de determinada manera.
+
+Por eso una insuficiencia afectiva no puede leerse inmediatamente como veredicto sobre el valor de quien la recibe. Tampoco convierte por sí sola a quien no puede dar más en una persona moralmente inferior. Puede existir una incompatibilidad real: uno necesita una forma de presencia, reciprocidad o compromiso que el otro no puede, no sabe o no está dispuesto a sostener en esas condiciones.
+
+Reconocer esa incompatibilidad no obliga a resignarse a ella. Precisamente porque el otro es un sujeto y no una fuente obligatoria de satisfacción, su capacidad tiene límites; y precisamente porque quien recibe también es un sujeto, puede decidir que esos límites hacen inviable el vínculo. La claridad consiste en no transformar una incompatibilidad en una metafísica del merecimiento: «si no me ama como necesito, es porque no valgo» o «si no puede darme lo que necesito, entonces es una mala persona».
+
+Esta separación conduce directamente al problema del amor propio. Si el afecto que recibo depende de la capacidad y de la posición del otro, entonces no puedo utilizar ese afecto como medida estable de mi propio valor. Hacerlo colocaría el centro del ego en una variable que pertenece, en parte decisiva, a otra autodeterminación.
+
+Por eso *El telar de las Moiras* formula el amor propio como capacidad de **soportarse sin inflarse**. Soportarse no significa volverse autosuficiente ni dejar de necesitar vínculos. Significa poder reconocer la propia fragilidad, el error, el deseo, la contradicción y también la necesidad del otro sin que cada una de esas experiencias obligue a buscar fuera la prueba de que se sigue teniendo valor. Inflarse sería la respuesta contraria: proteger el ego mediante una imagen de superioridad, perfección o invulnerabilidad que tampoco puede sostenerse frente a lo real.
+
+La importancia de esta capacidad se vuelve visible dentro del vínculo. Si el sujeto sólo puede sostener su propia posición mediante la confirmación del otro, el amor empieza a cargar con una tarea que ningún otro sujeto puede garantizar de manera permanente: demostrar que quien ama merece existir, merece ser querido o es suficiente. En ese punto, una petición afectiva concreta puede convertirse en una demanda estructuralmente insaciable, no porque pedir amor sea ilegítimo, sino porque ninguna cantidad de respuesta externa puede fijar de una vez el valor propio.
+
+Aquí la tesis de Fromm cumple una función argumentativa precisa. Su relación estructural entre amor a sí mismo y amor al otro permite mostrar por qué la manera en que un sujeto se sostiene afecta lo que exige y lo que puede ofrecer dentro de un vínculo. Pero esa relación no debe convertirse en una condición cronológica del tipo «primero resuélvete por completo y después podrás amar». El propio *Telar* corrige esa lectura: el sujeto no llega terminado al encuentro; amor propio y amor al otro pueden modificarse mutuamente mientras la relación ocurre.
+
+Queda entonces una dificultad: ¿cómo distinguir «soportarse» de justificar cualquier conducta propia o de volverse indulgente con uno mismo? La autocompasión estudiada por Kristin Neff resulta útil justo en ese punto. Sus tres componentes permiten formular diferencias operativas: reconocer una dificultad sin convertirla en condena global del sujeto; situar error y fragilidad dentro de una condición humana compartida en lugar de tratarlos como prueba de excepcional indignidad; y atender a lo que ocurre sin negarlo ni quedar completamente absorbido por ello. Esa estructura no demuestra que exista amor propio ni sustituye la tesis de *Telar*, pero ayuda a describir una forma de sostenerse que no necesita ni inflación ni colapso.
+
+Nada de esto ocurre en el vacío. La capacidad afectiva y la forma de sostenerse se construyen dentro de trayectorias. Los vínculos anteriores pueden volver ciertas expectativas más disponibles: anticipar abandono, desconfiar de la cercanía, buscar confirmación constante, mantener distancia o interpretar determinadas conductas como amenaza. La teoría del apego resulta útil aquí no como catálogo de identidades, sino como evidencia de que la historia relacional puede formar disposiciones que intervienen en relaciones posteriores.
+
+Esta precisión importa porque una disposición no es una sentencia. La tradición iniciada por Bowlby, desarrollada empíricamente por Ainsworth y ampliada por investigaciones posteriores no obliga a pensar que una persona «es» de una vez y para siempre un tipo de apego. Para esta sesión basta con una tesis más limitada: la experiencia previa puede modificar qué respuestas parecen más disponibles, qué señales reciben mayor peso y qué costos percibe el sujeto en la cercanía o la separación.
+
+La analogía con el *habitus* sirve sólo hasta ahí. En ambos casos puede hablarse de disposiciones adquiridas que orientan prácticas y percepciones sin exigir una deliberación nueva en cada ocasión. Pero un patrón de apego no es un *habitus* en sentido técnico bourdieusiano, y ninguno de los dos autoriza a decir que «el cuerpo decide antes que la conciencia».
+
+La pregunta metodológica permanece dentro del mismo marco que el curso ha construido: **¿qué disposiciones aprendidas parecen intervenir, qué condiciones presentes les dan peso, qué información tiene el sujeto y qué margen efectivo conserva para responder de otro modo?**
+
+El argumento del bloque puede entonces cerrarse sin recurrir a una cadena de autoridades. El amor recibido no mide el valor del sujeto porque depende de una capacidad que pertenece también al otro. El amor propio permite que esa contingencia no se convierta en tribunal permanente de la propia existencia. Y las disposiciones relacionales permiten explicar por qué sostenerse y vincularse no son actos producidos desde un vacío causal, sin convertir por ello la trayectoria en destino.
+
+Desde ahí se entiende la consecuencia que la Sesión 12 retomará con mayor amplitud: un ego capaz de sostenerse puede necesitar, desear y recibir amor sin transformar al otro en responsable absoluto de su propia posición.

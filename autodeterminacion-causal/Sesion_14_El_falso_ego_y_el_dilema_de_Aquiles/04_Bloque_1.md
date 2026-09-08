@@ -1,0 +1,18 @@
+# Sesión 14 · El falso ego y el dilema de Aquiles
+## Bloque 1 · El falso ego como predominio de la imagen
+
+El falso ego no es ausencia de ego ni simplemente «demasiado ego». La autodeterminación causal utiliza el término para describir una configuración en la que la imagen que el sujeto sostiene de sí mismo deja de ser una representación revisable y empieza a funcionar como referencia dominante de sus decisiones.
+
+La distinción importa porque todo sujeto tiene alguna imagen de sí. También gestiona la impresión que produce ante otros, ocupa roles y utiliza descripciones relativamente estables para orientarse. Nada de ello constituye egolatría por sí mismo. El problema aparece cuando la imagen adquiere rigidez suficiente para impedir o dificultar que la evidencia modifique la posición.
+
+Un ego que funciona como eje puede incorporar correcciones. El sujeto puede reconocer «me equivoqué», «cambié» o «esto ya no corresponde a lo que puedo sostener» sin que esas frases eliminen la continuidad de quien habla. En cambio, cuando una descripción de sí se vuelve condición indispensable de estabilidad, una corrección local puede experimentarse como amenaza a una identidad mucho más amplia.
+
+La egolatría nombra, dentro de la autodeterminación causal, la **absolutización de esa imagen como referencia**. Su manifestación no debe inferirse de un rasgo aislado. Defender una posición con fuerza, buscar reconocimiento, cuidar la reputación o resistirse a una crítica pueden tener razones distintas. Para hablar de predominio de la imagen necesitamos reconstruir un patrón: qué información se rechaza, qué costo tendría revisar la posición, qué papel cumple la aprobación y qué alternativas reconoce el sujeto.
+
+La autodeterminación causal vincula esta rigidez con la angustia de la libertad: una imagen estable **puede** reducir el vértigo de volver a preguntar quién se es y qué corresponde hacer. Si la respuesta ya está escrita en la imagen, algunas decisiones dejan de presentarse como posibilidades abiertas y pasan a formularse como exigencias de coherencia con el personaje. Este vínculo es una hipótesis causal que debe contrastarse con la estructura concreta del caso; no autoriza a diagnosticar toda identidad rígida como evasión de la angustia.
+
+Pero no toda continuidad identitaria es evasión. Mantener una promesa, conservar una convicción después de examinar objeciones o sostener un límite bajo presión pueden ser justamente expresiones de autodeterminación. La diferencia no está en cambiar frente a no cambiar. Está en **si la posición sigue pudiendo responder a razones, evidencia, condiciones y consecuencias o si su criterio principal se ha vuelto proteger la imagen**.
+
+Por eso la rigidez identitaria funciona mejor como **indicio que debe investigarse** que como marcador infalible. Si una crítica puntual activa una defensa desproporcionada, puede ser útil preguntar qué más está en juego. Pero la respuesta no viene dada de antemano: puede haber reputación profesional, riesgo material, memoria de daños anteriores, una convicción razonada o preocupación por una imagen. La reconstrucción causal debe distinguirlas.
+
+El falso ego, entonces, no se define por «mirar hacia afuera» mientras el ego auténtico «mira hacia adentro». La propia posición también se forma socialmente, y la mirada de otros puede ofrecer información válida. La distinción más precisa es funcional: **¿la respuesta del entorno entra como una condición e información entre otras, o se ha convertido en el criterio que decide qué puede el sujeto admitir, revisar o hacer?**

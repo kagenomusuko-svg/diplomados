@@ -1,0 +1,24 @@
+# Sesión 6 · Dignidad, juicio y banalidad del mal
+## Bloque 1 · Dignidad antes del contrato: sujeto, acto y límite del juicio
+
+La sesión anterior terminó con una deuda. Si el Estado recibe capital del ciudadano y contrae obligaciones, todavía debemos explicar por qué determinadas obligaciones no pueden cancelarse simplemente porque el ciudadano haya actuado mal, incumplido una norma o perdido aprobación social. La autodeterminación causal coloca la dignidad **antes** del contrato; esta formulación aparece en el Capítulo IV de *El telar de las Moiras*.
+
+La tesis es fuerte: **la dignidad no se otorga y no se retira como consecuencia de la conducta**. No es mérito, reputación ni premio a la virtud. Es la condición política y jurídica de algo ontológicamente anterior: que hay un sujeto. Si se elimina esa condición, no sólo desaparece el sujeto de derechos; desaparece también el sujeto de obligaciones. Un objeto puede ser controlado, destruido o utilizado, pero no puede ser responsable.
+
+Ésta es la razón por la que dignidad y responsabilidad no son conceptos opuestos. La dignidad hace posible exigir responsabilidad. Quien conserva la condición de sujeto puede ser llamado a responder por lo que hizo; puede recibir una sanción, quedar limitado en determinados ámbitos y estar obligado a reparar cuando el marco normativo correspondiente lo establece. Ninguna de esas consecuencias requiere afirmar que ha dejado de ser sujeto.
+
+Kant es el interlocutor decisivo en este punto. En la segunda sección de la *Fundamentación de la metafísica de las costumbres*, formula a la humanidad y, más ampliamente, a la naturaleza racional como fin en sí mismo: aquello que no debe ser usado **solamente** como medio. En el reino de los fines distingue además entre aquello que tiene precio y aquello que posee dignidad porque no admite equivalente.
+
+La autodeterminación causal declara una afinidad y una diferencia. Recoge la exigencia de no convertir al ser humano exclusivamente en instrumento, pero no funda la dignidad en el ejercicio actual de la racionalidad. Una capacidad puede encontrarse disminuida, suspendida o no ejercerse en un momento determinado sin que por ello desaparezca el sujeto. **La dignidad pertenece a la condición, no al desempeño.** En el Capítulo IV de *El telar de las Moiras* se localiza esta reformulación.
+
+Esta formulación conduce al problema del juicio. La autodeterminación causal utiliza la distinción entre ley y moral para evitar un colapso frecuente: pasar de «este acto viola una norma» a «esta persona es, en su ser, mala». El Capítulo IV de *El telar de las Moiras* desarrolla esta diferencia y permite precisar su escala.
+
+La ley realmente existente no es infalible, necesariamente justa ni siempre producto de consenso efectivo. Puede ser discriminatoria, autoritaria o contradictoria con derechos fundamentales. Lo que aquí interesa es otra cosa: **el juicio jurídico dispone de normas públicas, criterios de imputación, procedimientos y tipos de consecuencias dirigidos a actos y responsabilidades identificables**. Su legitimidad concreta también puede y debe ser criticada.
+
+Por tanto, decir que «la ley juzga actos, no personas» no significa que los tribunales no juzguen a personas responsables. Significa que una sentencia jurídicamente defendible debe atribuir consecuencias a **conductas tipificadas e imputables**, no declarar una esencia ontológica del acusado. Puede afirmar que alguien cometió homicidio; no necesita demostrar que pertenece metafísicamente a la clase de «los malos».
+
+La misma disciplina vale fuera del derecho. Podemos criticar una mentira, una agresión, una traición, una política pública o una práctica institucional. Podemos evaluar sus efectos y su relación con normas que aceptamos o defendemos. Lo que no se sigue automáticamente de ese juicio es que conozcamos exhaustivamente qué «es» la persona que actuó.
+
+La diferencia es especialmente importante en casos extremos. Mantener la dignidad de un criminal no disminuye la gravedad del crimen. Al contrario: conserva al agente en el mismo plano humano en el que la responsabilidad tiene sentido.
+
+Rawls puede servir aquí como interlocutor auxiliar. Su posición original y el velo de la ignorancia preguntan qué principios aceptaríamos sin conocer nuestra posición particular. El recurso ayuda a examinar imparcialidad institucional, pero **no funda la dignidad de la autodeterminación causal** ni demuestra por sí solo su carácter incondicional. Del mismo modo, el enfoque de capacidades de Sen y Nussbaum ayuda a preguntar si las condiciones formales se traducen en posibilidades efectivas, pero tampoco sustituye el fundamento ontológico del sistema.
