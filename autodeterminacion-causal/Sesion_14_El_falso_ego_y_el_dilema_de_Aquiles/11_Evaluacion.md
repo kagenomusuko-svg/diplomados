@@ -68,5 +68,5 @@ d) No existe diferencia filosófica entre ambas.
 
 **Explicación:** Cambiar una descripción de sí no elimina necesariamente la continuidad del sujeto. El problema de la rigidez es la función que adquiere una descripción cuando ya no puede responder a evidencia sin poner en juego toda la imagen.
 
-> **Condición de avance:** 3 de 5 respuestas correctas y Herramienta de aplicación 7 completada. El escrito de posición debe subirse al repositorio.  
+> **Condición de avance:** 3 de 5 respuestas correctas y Herramienta de aplicación 7 completada.  
 > Si no alcanzaste el mínimo: relee los dos bloques y distingue explícitamente **ego / imagen / reconocimiento / rigidez / continuidad / kleos / nóstos / idem / ipse** antes de volver a intentarlo.
