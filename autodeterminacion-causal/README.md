@@ -1,14 +1,18 @@
-# Versión final del Diplomado en autodeterminación causal
+# Diplomado en autodeterminación causal
 
-Esta carpeta contiene la descomposición estructural de los materiales aprobados en `revision/` para su posterior implementación en plataforma.
+Esta carpeta contiene la versión estructurada aprobada para publicación e implementación en Meriadock Academy.
 
 ## Regla de autoridad
 
-- `revision/` es la fuente de verdad editorial y doctrinal del diplomado.
-- `version-final/` es la fuente de verdad estructural para publicación e implementación.
-- La descomposición no reescribe el contenido aprobado: separa sus unidades didácticas según la anatomía real de cada sesión.
+- `kagenomusuko-svg/borrador-cursos/revision/` conserva la autoridad editorial y doctrinal del diplomado.
+- `kagenomusuko-svg/diplomados/autodeterminacion-causal/` es la fuente canónica de publicación e implementación.
+- La estructura publicada separa las unidades didácticas según la anatomía real de cada sesión.
 - No todas las sesiones tienen los mismos módulos. Cuando existen actividades adicionales, herramientas de aplicación, epílogos, textos de cierre u otras unidades, se conservan como módulos propios.
-- Las lecturas de las sesiones que cuentan con materiales preparados en `lecturas/sesion-XX/` se recuperan directamente de esos archivos. No se sustituyen por la mera sección de referencias incluida en la sesión revisada.
+- Las lecturas preparadas se incluyen como recursos reales, no como una mera repetición de referencias bibliográficas.
 - Las sesiones especiales de síntesis o cierre conservan sus instrucciones de relectura cuando no existe una carpeta de lecturas recuperadas.
 
 Cada módulo de una sesión se identifica con el formato visible `Sesión N · Nombre de la sesión`.
+
+## Alcance de la primera publicación
+
+En esta etapa no se incluyen escritos de posición ni un circuito de entrega de evidencias abiertas. La acreditación automática se apoya en el recorrido de las 16 sesiones y la aprobación de sus 16 evaluaciones. Las herramientas de aplicación privadas permanecen fuera de la calificación.
