@@ -1,27 +1,23 @@
-# Carga académica oficial
+# Documento histórico de carga académica
 
-El **Diplomado en Autodeterminación Causal** tiene una **carga académica nominal de 120 horas**.
+> **Estado: obsoleto. No utilizar para publicación, implementación ni certificación vigente.**
 
-## Criterio de cómputo
+Este archivo conserva únicamente el antecedente documental de una estimación previa de carga académica del **Diplomado en Autodeterminación Causal**.
 
-El programa es asincrónico, autogestivo y secuencial; por ello, la carga académica no equivale al tiempo cronológico que cada participante tarda en concluirlo. Para efectos de certificación se adopta una carga nominal estable de **7.5 horas promedio por sesión**, aplicada a las **16 sesiones** del recorrido académico:
+La cifra de **120 horas** que constaba anteriormente en este documento **ya no corresponde a la edición publicada vigente**.
 
-`16 sesiones × 7.5 horas = 120 horas`
+## Documento vigente
 
-La carga nominal promedio por sesión se distribuye metodológicamente así:
+La autoridad para la carga académica de la edición actual es:
 
-- **2.25 horas** para apertura expositiva, contenido escrito y conceptos clave.
-- **3 horas** para lecturas obligatorias o lecturas de trabajo.
-- **1.25 horas** para actividades de análisis y aplicación académica.
-- **0.5 horas** para comprobación de comprensión.
-- **0.5 horas** para revisión, integración y cierre del material de la sesión.
+- `CARGA_ACADEMICA.md`
 
-Esta distribución es un criterio institucional de carga académica, no una medición individual del tiempo real de estudio. La anatomía concreta de las sesiones puede variar y desplazar tiempo entre componentes sin alterar la carga total del programa.
-
-Las herramientas privadas de aplicación no se contabilizan como requisito adicional de acreditación. Tampoco se contabilizan actividades de evidencia abierta retiradas de la publicación v1.
+La carga académica oficial de la edición vigente es de **40 horas de 60 minutos**, calculada sobre el corpus obligatorio efectivamente publicado: estudio y lectura analítica, actividades de análisis, evaluaciones, presentación, integración y cierre.
 
 ## Regla documental
 
-La cifra de **120 horas** es un dato institucional del programa y no se recalcula a partir del tiempo de conexión, velocidad de lectura o número de intentos de evaluación de cada participante.
+Este archivo no debe ser utilizado como fuente para certificados, fichas académicas, páginas de publicación, metadatos de Meriadock Academy ni cualquier otro documento institucional de la edición vigente.
 
-Cuando se emite un certificado, la carga académica vigente del curso se copia al registro del certificado como dato histórico inmutable. Una modificación futura de la carga académica del programa no altera certificados ya emitidos.
+Los certificados deben registrar la carga académica vigente al momento de su emisión como dato histórico inmutable. Una modificación futura de la carga académica de una nueva edición no altera certificados ya emitidos.
+
+Se conserva este archivo únicamente para mantener trazabilidad del criterio anterior y evitar que la cifra histórica de **120 horas** sea interpretada como una segunda carga académica oficial concurrente.
